@@ -7,6 +7,3 @@
 3. [Visualization of Annotations](annotation_vis.md)
 4. [Conclusion: Discourse Factors leading to Persuasion](discourse_factors.md)
 
-
-# Topic Model (LDA + BERT)
-![LDA](image/lda.html)
